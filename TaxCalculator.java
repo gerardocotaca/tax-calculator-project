@@ -1,5 +1,3 @@
-//Gerardo Cota-Canez, gcotacan, CIS 340, A1
-
 import java.util.Scanner;
 
 
